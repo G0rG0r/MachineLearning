@@ -5,4 +5,4 @@
 <img src="dataset.png">
 <h3>Then it can be tested to see how good it predicts the answeres</h3>
 <img src="predict.png">
-<h3>Although the entered numbers are not trained on,  the model predicted the right prediction everytime !</h3>
+<h3>Although the entered numbers are not trained on,  the model predicted the right number everytime !</h3>
